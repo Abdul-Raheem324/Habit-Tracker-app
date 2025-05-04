@@ -3,6 +3,7 @@ import { Html, Head, Main, NextScript } from "next/document";
 export default function Document() {
   return (
     <Html lang="en">
+      <title>HabitSpark | A best habit tracker app</title>
       <Head />
       <body className="antialiased">
         <Main />
